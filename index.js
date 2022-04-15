@@ -15,10 +15,9 @@ express()
     let num = [];
     let alphabet =[];
     // Change the user id as per user name and DOB
-    let user_id = 'vijendra nagar_02082001'
-    let email=`vijendranagarit19@acropolis.in`
-    let rollNo = `0827IT191129`
-    // Check whether the given array contains numeric elements or not
+    let user_id = 'purva_wakode_22052001'
+    let email=`purvawakode2229@gmail.com`
+    let rollNo = `0827IT191089'   // Check whether the given array contains numeric elements or not
     let stat=false
     arra.forEach((ele) => {
         // Check if the number is even or odd
