@@ -15,8 +15,8 @@ express()
     let num = [];
     let alphabet =[];
     // Change the user id as per user name and DOB
-    let user_id = 'vijendra_nagar_02082001'
-    let email=`vijendranagarit19@acropolis,in`
+    let user_id = 'vijendra nagar_02082001'
+    let email=`vijendranagarit19@acropolis.in`
     let rollNo = `0827IT191129`
     // Check whether the given array contains numeric elements or not
     let stat=false
